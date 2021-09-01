@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d0bad83-bb58-453a-b91a-3fac694cc5e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/flask-bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/AT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/AU" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/AX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/AZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/BE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/BW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/BY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/BZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/CD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/CG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/CY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/CZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/EC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/EH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/FJ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/FM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/GM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/HN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/ID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/IE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/IQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/JM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/KH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/KI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/KM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/KN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/KW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/LK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/LV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/LY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/ML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/MY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/NO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/NP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/NR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/NU" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/NZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/PR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/PS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/PT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/PW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/PY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/RW" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/SC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/SD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/SX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/SY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/SZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/TH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/TZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/UA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/UG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/VC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/VI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/WF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/AutofillStates/2020.11.2.164946/YE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/CertificateRevocation/6826/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/CrashpadMetrics-active.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Crowd Deny/2021.8.23.1140/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Crowd Deny/2021.8.23.1140/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/BudgetDatabase/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/BudgetDatabase/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000012" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000014" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000024" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000025" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000026" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000031" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000033" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000036" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000037" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000040" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000041" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000042" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000043" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000045" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000046" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000048" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000051" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000052" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000053" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000054" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000055" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000056" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000057" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000058" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002e9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002ed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_0002ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000301" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000303" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000304" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000305" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000306" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000307" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000308" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000309" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00030a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00030b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00030c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00030d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00030e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00030f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000310" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000311" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000312" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000313" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000314" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000315" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000316" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000317" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000318" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000319" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00031a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00031b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00031c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00031d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00031e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00031f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000320" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000321" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000322" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000323" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000324" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000325" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000326" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000327" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000328" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000329" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00032a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00032b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00032c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00032d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00032e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00032f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000330" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000331" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000332" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000333" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000334" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000335" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000336" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000337" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000339" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00033a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00033b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00033c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00033e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000341" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000343" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000344" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000345" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000346" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000347" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000348" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000349" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00034a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00034b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00034c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00034d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00034e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000351" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000352" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000355" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000356" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000357" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000358" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000359" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00035a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00035b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00035c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00035d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00035e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00035f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000360" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000361" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000362" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000364" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000365" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000366" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000367" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000369" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00036a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00036b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00036c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00036d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00036e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00036f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000370" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000371" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000372" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000374" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000375" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000376" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000377" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00037a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00037b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00037c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00037d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00037e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00037f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000380" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000382" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000383" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000384" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000385" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000386" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000387" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000388" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_000389" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00038a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00038b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00038c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00038d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cache/f_00038e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/043af20e7da65f94_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/1394793b1f589eeb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/1474d0167a9dfa55_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/2632dfd81a398ff4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/48e992541cc18e9a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/5202a244ec131dc3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/58988922ca876292_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/59a62c1c4ee8ab96_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/6018bfc599cafdc4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/66d71e5cf0bb1945_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/7bb1dfccba03207c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/8710df0d37a64472_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/a3da67b4067b75e5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/a3e516f4da970fea_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/b85a3445f800bc67_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/d6a2d0c67cdc6832_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/d957f2afca2be77f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Code Cache/js/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Download Service/EntryDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Extension State/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Feature Engagement Tracker/AvailabilityDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/History" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000055.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Local Storage/leveldb/000012.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Local Storage/leveldb/000013.ldb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Login Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Login Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Network Persistent State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/PreferredApps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Reporting and NEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Service Worker/Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Session Storage/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Sessions/Session_13274930689439892" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Sessions/Tabs_13274930689541281" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Shortcuts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Shortcuts-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Site Characteristics Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Sync Data/LevelDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Sync Data/LevelDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/Web Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/data_reduction_proxy_leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/databases/Databases.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/databases/Databases.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/heavy_ad_intervention_opt_out.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/optimization_guide_model_and_features_store/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/shared_proto_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/shared_proto_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/shared_proto_db/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/shared_proto_db/metadata/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Default/shared_proto_db/metadata/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/DevToolsActivePort" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/FileTypePolicies/43/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/FileTypePolicies/43/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/FileTypePolicies/43/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/GrShaderCache/GPUCache/f_000005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/GrShaderCache/GPUCache/f_000006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/GrShaderCache/GPUCache/f_000007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/GrShaderCache/GPUCache/f_000008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/GrShaderCache/GPUCache/f_000009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Local State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/MEIPreload/1.0.6.0/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/MEIPreload/1.0.6.0/preloaded_data.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Module Info Cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/OnDeviceHeadSuggestModel/20210821.393582368/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/OptimizationHints/295/optimization-hints.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/SSLErrorAssistant/7/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/SSLErrorAssistant/7/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/SafetyTips/2687/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/Subresource Filter/Unindexed Rules/9.29.4/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/ThirdPartyModuleList64/2018.8.8.0/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/ZxcvbnData/1/english_wikipedia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/ZxcvbnData/1/male_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/ZxcvbnData/1/passwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/chrome_debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/chrome_shutdown_ms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libcrt_platform_a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perfil/pnacl/0.57.44.2492/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/botSeguirHastag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xVcG3YcRobk31wE0K2eUzE9nsh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="botSeguirHastag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/botSeguirHastag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.botSeguirHastag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d0bad83-bb58-453a-b91a-3fac694cc5e9" name="Changes" comment="" />
+      <created>1630443596568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630443596568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
