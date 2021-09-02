@@ -9,9 +9,7 @@ import pyautogui
 #    if option.text == "Admin, Ascender":
 #       actionChains = ActionChains(driver)
 class ChromeAuto:
-    def __init__(self,login,senha,hastag):
-        self.login = login
-        self.senha = senha
+    def __init__(self):
         self.driver_path = 'chromedriver.exe'
         self.options = webdriver.ChromeOptions()
         # self.options.add_argument('user-data-dir=C:/Users/igor/Documents/GitHub/flask-bot/Perfil')
@@ -20,27 +18,18 @@ class ChromeAuto:
             options=self.options
         )
 
+    def acessa(self,hastag):
+        self.chrome.get(hastag)
 
-
-        sleep(2)
-        self.chrome.get(f'https://www.instagram.com/explore/tags/{hastag}/')
-        self.chrome.find_element_by_xpath('//*[@id="react-root"]/section/nav/div[2]/div/div/div[3]/div/span/a[1]/button').click()
-        sleep(2)
-        self.chrome.find_element_by_name('username').send_keys(login)
-        self.chrome.find_element_by_name('password').send_keys(senha)
-        self.chrome.find_element_by_xpath('//*[@id="loginForm"]/div/div[3]/button/div').click()
-        sleep(3)
-        self.chrome.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div/div/div/button').click()
-    # def login(self):
-    #     self.chrome.get('https://www.instagram.com/')
-
+    def login(self):
+        botaoEntrar = self.chrome.find_element_by_xpath('//*[@id="react-root"]/section/nav/div[2]/div/div/div[3]/div/span/a[1]/button')
+        botaoEntrar.click()
+    def agoran(self):
+        agrn = self.chrome.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div/div/div/button')
+        agrn.click()
     def seguir(self):
         self.chrome.find_element_by_class_name('sqdOP').click()
     def abrircurtir(self):
-        #div q tem as postagens da hastag EZdmt
-        # class das hastag _9AhH0 tdas iguais _9AhH0
-        # svg aria-label="Curtir"   /html/body/div[6]/div[2]/div/article/div[3]/section[1]/span[1]/button/div/span/svg
-        # proiximo class coreSpriteRightPaginationArrow
         postagens = self.chrome.find_elements_by_class_name('_9AhH0')
         lista = []
         for post in postagens:
@@ -56,11 +45,4 @@ class ChromeAuto:
             pyautogui.doubleClick(x=515, y=329)
             sleep(1)
 
-if __name__=='__main__':
-    chrome = ChromeAuto(login = input('Login: '),senha=input('Senha: ' ),hastag=input('buscar Hastag: '))
-
-    chrome.seguir()
-    chrome.abrircurtir()
-    sleep(2)
-    chrome.bot()
 
