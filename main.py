@@ -22,5 +22,7 @@ def iniciar():
     chrome.bot()
     return render_template("index.html")
     log.Fatal(http.ListenAndServe(":" + os.Getenv("PORT"), router))
+
 if __name__=='__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port, debug=True)
