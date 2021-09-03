@@ -1,12 +1,14 @@
 from flask import Flask, render_template, request
 from botSeguirHastag import *
 import sys
+import os
+import requests
+
 
 app = Flask(__name__)
 @app.route('/', methods=['GET'],)
 def index():
     return render_template('index.html')
-
 @app.route('/cadastrar', methods=['POST'],)
 def iniciar():
     site = "https://www.instagram.com/explore/tags/"
@@ -21,8 +23,9 @@ def iniciar():
     sleep(2)
     chrome.bot()
     return render_template("index.html")
-    log.Fatal(http.ListenAndServe(":" + os.Getenv("PORT"), router))
+
 
 if __name__=='__main__':
+
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port, debug=True)
