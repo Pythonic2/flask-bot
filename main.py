@@ -3,7 +3,7 @@ from botSeguirHastag import *
 import sys
 
 app = Flask(__name__)
-@app.route('/')
+@app.route('/', methods=['GET'],)
 def index():
     return render_template('index.html')
 
@@ -21,5 +21,6 @@ def iniciar():
     sleep(2)
     chrome.bot()
     return render_template("index.html")
+    log.Fatal(http.ListenAndServe(":" + os.Getenv("PORT"), router))
 if __name__=='__main__':
     app.run(debug=True)
